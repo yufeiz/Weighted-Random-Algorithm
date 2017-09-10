@@ -12,6 +12,6 @@ Ads 1004's weight : 1005's weight : 1006's weight = 2 : 3 : 4;<br/>
 Java JDK 1.8
 ```
 ### Running and Result
-1. running code with data provided from project's folder.
+1. running code with data provided from "data" file.
 
 2. The result shows user login information, and the occurrence frequency of Campaigns and Ads is consistent with their weights.
